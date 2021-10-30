@@ -11,6 +11,7 @@ class Stack:
     element to the top of the stack, and pop() removes an element from the top
     of a stack. The order in which elements come off of a stack are
     Last In, First Out (LIFO).
+    For More information visit :-
     https://en.wikipedia.org/wiki/Stack_(abstract_data_type)
     """
 
